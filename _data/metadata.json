@@ -1,12 +1,12 @@
 {
   "title": "Learn CSS Garden",
-  "url": "https://learncssgarden.com/",
+  "url": "https://css-garden-guide.vercel.app/",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://learncssgarden.com/"
+    "id": "https://css-garden-guide.vercel.app/"
   },
   "author": {
     "name": "Ahmad Shadeed",
